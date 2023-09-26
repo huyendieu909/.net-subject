@@ -1,0 +1,14 @@
+E:\project\Bai3\DanhSach\bin\Debug\net6.0\DanhSach.exe
+E:\project\Bai3\DanhSach\bin\Debug\net6.0\DanhSach.deps.json
+E:\project\Bai3\DanhSach\bin\Debug\net6.0\DanhSach.runtimeconfig.json
+E:\project\Bai3\DanhSach\bin\Debug\net6.0\DanhSach.dll
+E:\project\Bai3\DanhSach\bin\Debug\net6.0\DanhSach.pdb
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfoInputs.cache
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfo.cs
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\DanhSach.csproj.CoreCompileInputs.cache
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\DanhSach.dll
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\refint\DanhSach.dll
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\DanhSach.pdb
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\DanhSach.genruntimeconfig.cache
+E:\project\Bai3\DanhSach\obj\Debug\net6.0\ref\DanhSach.dll

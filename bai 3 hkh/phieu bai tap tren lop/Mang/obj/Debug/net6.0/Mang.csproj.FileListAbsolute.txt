@@ -1,0 +1,14 @@
+E:\project\Bai3\Mang\bin\Debug\net6.0\Mang.exe
+E:\project\Bai3\Mang\bin\Debug\net6.0\Mang.deps.json
+E:\project\Bai3\Mang\bin\Debug\net6.0\Mang.runtimeconfig.json
+E:\project\Bai3\Mang\bin\Debug\net6.0\Mang.dll
+E:\project\Bai3\Mang\bin\Debug\net6.0\Mang.pdb
+E:\project\Bai3\Mang\obj\Debug\net6.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai3\Mang\obj\Debug\net6.0\Mang.AssemblyInfoInputs.cache
+E:\project\Bai3\Mang\obj\Debug\net6.0\Mang.AssemblyInfo.cs
+E:\project\Bai3\Mang\obj\Debug\net6.0\Mang.csproj.CoreCompileInputs.cache
+E:\project\Bai3\Mang\obj\Debug\net6.0\Mang.dll
+E:\project\Bai3\Mang\obj\Debug\net6.0\refint\Mang.dll
+E:\project\Bai3\Mang\obj\Debug\net6.0\Mang.pdb
+E:\project\Bai3\Mang\obj\Debug\net6.0\Mang.genruntimeconfig.cache
+E:\project\Bai3\Mang\obj\Debug\net6.0\ref\Mang.dll

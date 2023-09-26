@@ -1,0 +1,28 @@
+E:\project\Bai3\Chuoi\bin\Debug\net6.0\Chuoi.exe
+E:\project\Bai3\Chuoi\bin\Debug\net6.0\Chuoi.deps.json
+E:\project\Bai3\Chuoi\bin\Debug\net6.0\Chuoi.runtimeconfig.json
+E:\project\Bai3\Chuoi\bin\Debug\net6.0\Chuoi.dll
+E:\project\Bai3\Chuoi\bin\Debug\net6.0\Chuoi.pdb
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfoInputs.cache
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfo.cs
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\Chuoi.csproj.CoreCompileInputs.cache
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\Chuoi.dll
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\refint\Chuoi.dll
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\Chuoi.pdb
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\Chuoi.genruntimeconfig.cache
+E:\project\Bai3\Chuoi\obj\Debug\net6.0\ref\Chuoi.dll
+E:\k5\lt .net\bai 3 hkh\Chuoi\bin\Debug\net6.0\Chuoi.exe
+E:\k5\lt .net\bai 3 hkh\Chuoi\bin\Debug\net6.0\Chuoi.deps.json
+E:\k5\lt .net\bai 3 hkh\Chuoi\bin\Debug\net6.0\Chuoi.runtimeconfig.json
+E:\k5\lt .net\bai 3 hkh\Chuoi\bin\Debug\net6.0\Chuoi.dll
+E:\k5\lt .net\bai 3 hkh\Chuoi\bin\Debug\net6.0\Chuoi.pdb
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfo.cs
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\Chuoi.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\Chuoi.dll
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\refint\Chuoi.dll
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\Chuoi.pdb
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\Chuoi.genruntimeconfig.cache
+E:\k5\lt .net\bai 3 hkh\Chuoi\obj\Debug\net6.0\ref\Chuoi.dll

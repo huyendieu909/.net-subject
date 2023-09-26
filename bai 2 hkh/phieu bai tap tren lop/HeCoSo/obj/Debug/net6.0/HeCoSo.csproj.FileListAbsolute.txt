@@ -1,0 +1,30 @@
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\bin\Debug\net6.0\HeCoSo.exe
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\bin\Debug\net6.0\HeCoSo.deps.json
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\bin\Debug\net6.0\HeCoSo.runtimeconfig.json
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\bin\Debug\net6.0\HeCoSo.dll
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\bin\Debug\net6.0\HeCoSo.pdb
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.AssemblyInfo.cs
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.dll
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\refint\HeCoSo.dll
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.pdb
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\HeCoSo.genruntimeconfig.cache
+E:\k5\lt .net\bai 2 hkh\Bai2\HeCoSo\obj\Debug\net6.0\ref\HeCoSo.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\bin\Debug\net6.0\HeCoSo.exe
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\bin\Debug\net6.0\HeCoSo.deps.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\bin\Debug\net6.0\HeCoSo.runtimeconfig.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\bin\Debug\net6.0\HeCoSo.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\bin\Debug\net6.0\HeCoSo.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.AssemblyInfo.cs
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\refint\HeCoSo.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\HeCoSo.genruntimeconfig.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap tren lop\HeCoSo\obj\Debug\net6.0\ref\HeCoSo.dll

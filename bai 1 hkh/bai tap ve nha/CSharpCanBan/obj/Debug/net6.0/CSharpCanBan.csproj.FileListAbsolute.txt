@@ -1,0 +1,30 @@
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\bin\Debug\net6.0\CSharpCanBan.exe
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\bin\Debug\net6.0\CSharpCanBan.deps.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\bin\Debug\net6.0\CSharpCanBan.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\bin\Debug\net6.0\CSharpCanBan.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\bin\Debug\net6.0\CSharpCanBan.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\refint\CSharpCanBan.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\CSharpCanBan.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\bai tap 2\obj\Debug\net6.0\ref\CSharpCanBan.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.exe
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.deps.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\refint\CSharpCanBan.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CSharpCanBan\obj\Debug\net6.0\ref\CSharpCanBan.dll

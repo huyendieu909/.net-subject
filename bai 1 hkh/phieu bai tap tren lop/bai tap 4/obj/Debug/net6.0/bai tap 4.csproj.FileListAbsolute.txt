@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\bin\Debug\net6.0\bai tap 4.exe
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\bin\Debug\net6.0\bai tap 4.deps.json
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\bin\Debug\net6.0\bai tap 4.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\bin\Debug\net6.0\bai tap 4.dll
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\bin\Debug\net6.0\bai tap 4.pdb
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.dll
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\refint\bai tap 4.dll
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.pdb
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\bai tap 4.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\phieu bai tap tren lop\bai tap 4\obj\Debug\net6.0\ref\bai tap 4.dll

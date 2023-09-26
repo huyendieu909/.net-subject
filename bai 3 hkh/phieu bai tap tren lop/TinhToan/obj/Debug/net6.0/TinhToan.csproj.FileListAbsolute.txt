@@ -1,0 +1,14 @@
+E:\project\Bai3\TinhToan\bin\Debug\net6.0\TinhToan.exe
+E:\project\Bai3\TinhToan\bin\Debug\net6.0\TinhToan.deps.json
+E:\project\Bai3\TinhToan\bin\Debug\net6.0\TinhToan.runtimeconfig.json
+E:\project\Bai3\TinhToan\bin\Debug\net6.0\TinhToan.dll
+E:\project\Bai3\TinhToan\bin\Debug\net6.0\TinhToan.pdb
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\TinhToan.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\TinhToan.AssemblyInfoInputs.cache
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\TinhToan.AssemblyInfo.cs
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\TinhToan.csproj.CoreCompileInputs.cache
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\TinhToan.dll
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\refint\TinhToan.dll
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\TinhToan.pdb
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\TinhToan.genruntimeconfig.cache
+E:\project\Bai3\TinhToan\obj\Debug\net6.0\ref\TinhToan.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "phieu bai ve nha/1.0.0": {
+        "runtime": {
+          "phieu bai ve nha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "phieu bai ve nha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

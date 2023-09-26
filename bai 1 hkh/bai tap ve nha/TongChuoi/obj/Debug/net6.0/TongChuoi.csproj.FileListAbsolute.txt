@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\bin\Debug\net6.0\TongChuoi.exe
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\bin\Debug\net6.0\TongChuoi.deps.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\bin\Debug\net6.0\TongChuoi.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\bin\Debug\net6.0\TongChuoi.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\bin\Debug\net6.0\TongChuoi.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\refint\TongChuoi.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\TongChuoi.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TongChuoi\obj\Debug\net6.0\ref\TongChuoi.dll

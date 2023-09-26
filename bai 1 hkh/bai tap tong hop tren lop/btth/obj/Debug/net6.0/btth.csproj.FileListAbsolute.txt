@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\bin\Debug\net6.0\btth.exe
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\bin\Debug\net6.0\btth.deps.json
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\bin\Debug\net6.0\btth.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\bin\Debug\net6.0\btth.dll
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\bin\Debug\net6.0\btth.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.dll
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\refint\btth.dll
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\btth.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\bai tap tong hop tren lop\btth\obj\Debug\net6.0\ref\btth.dll

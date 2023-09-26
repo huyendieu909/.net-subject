@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\bin\Debug\net6.0\TapTin.exe
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\bin\Debug\net6.0\TapTin.deps.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\bin\Debug\net6.0\TapTin.runtimeconfig.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\bin\Debug\net6.0\TapTin.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\bin\Debug\net6.0\TapTin.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfo.cs
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\refint\TapTin.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\TapTin.genruntimeconfig.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\TapTin\obj\Debug\net6.0\ref\TapTin.dll

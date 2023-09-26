@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\bin\Debug\net6.0\DanhSach.exe
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\bin\Debug\net6.0\DanhSach.deps.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\bin\Debug\net6.0\DanhSach.runtimeconfig.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\bin\Debug\net6.0\DanhSach.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\bin\Debug\net6.0\DanhSach.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfo.cs
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\refint\DanhSach.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\DanhSach.genruntimeconfig.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\DanhSach\obj\Debug\net6.0\ref\DanhSach.dll

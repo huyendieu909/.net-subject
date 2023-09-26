@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\bin\Debug\net6.0\CauTruc.exe
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\bin\Debug\net6.0\CauTruc.deps.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\bin\Debug\net6.0\CauTruc.runtimeconfig.json
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\bin\Debug\net6.0\CauTruc.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\bin\Debug\net6.0\CauTruc.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.AssemblyInfo.cs
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\refint\CauTruc.dll
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.pdb
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\CauTruc.genruntimeconfig.cache
+E:\k5\lt .net\bai 2 hkh\phieu bai tap ve nha\CauTruc\obj\Debug\net6.0\ref\CauTruc.dll

@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\bin\Debug\net6.0\TamGiac.exe
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\bin\Debug\net6.0\TamGiac.deps.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\bin\Debug\net6.0\TamGiac.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\bin\Debug\net6.0\TamGiac.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\bin\Debug\net6.0\TamGiac.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\refint\TamGiac.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\TamGiac.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\TamGiac\obj\Debug\net6.0\ref\TamGiac.dll

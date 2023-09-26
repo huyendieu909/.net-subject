@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\bin\Debug\net6.0\CanBacHai.exe
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\bin\Debug\net6.0\CanBacHai.deps.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\bin\Debug\net6.0\CanBacHai.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\bin\Debug\net6.0\CanBacHai.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\bin\Debug\net6.0\CanBacHai.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\refint\CanBacHai.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\CanBacHai.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\CanBacHai\obj\Debug\net6.0\ref\CanBacHai.dll

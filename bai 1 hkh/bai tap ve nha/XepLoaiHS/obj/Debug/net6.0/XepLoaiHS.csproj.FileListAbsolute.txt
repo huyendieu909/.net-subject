@@ -1,0 +1,15 @@
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.exe
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.deps.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.runtimeconfig.json
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.AssemblyInfo.cs
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\refint\XepLoaiHS.dll
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.pdb
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.genruntimeconfig.cache
+E:\k5\lt .net\bai 1 hkh\bai tap ve nha\XepLoaiHS\obj\Debug\net6.0\ref\XepLoaiHS.dll
