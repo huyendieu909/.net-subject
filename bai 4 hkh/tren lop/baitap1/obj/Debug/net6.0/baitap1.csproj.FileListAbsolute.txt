@@ -1,0 +1,28 @@
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\bin\Debug\net6.0\baitap1.exe
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\bin\Debug\net6.0\baitap1.deps.json
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\bin\Debug\net6.0\baitap1.runtimeconfig.json
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\bin\Debug\net6.0\baitap1.dll
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\bin\Debug\net6.0\baitap1.pdb
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\baitap1.AssemblyInfoInputs.cache
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\baitap1.AssemblyInfo.cs
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\baitap1.csproj.CoreCompileInputs.cache
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\baitap1.dll
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\refint\baitap1.dll
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\baitap1.pdb
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\baitap1.genruntimeconfig.cache
+E:\project\HoangXuanQuy_2021604440_bai4tl\baitap1\obj\Debug\net6.0\ref\baitap1.dll
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\bin\Debug\net6.0\baitap1.exe
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\bin\Debug\net6.0\baitap1.deps.json
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\bin\Debug\net6.0\baitap1.runtimeconfig.json
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\bin\Debug\net6.0\baitap1.dll
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\bin\Debug\net6.0\baitap1.pdb
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\baitap1.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\baitap1.AssemblyInfo.cs
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\baitap1.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\baitap1.dll
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\refint\baitap1.dll
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\baitap1.pdb
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\baitap1.genruntimeconfig.cache
+E:\k5\lt .net\bai 4 hkh\tren lop\baitap1\obj\Debug\net6.0\ref\baitap1.dll

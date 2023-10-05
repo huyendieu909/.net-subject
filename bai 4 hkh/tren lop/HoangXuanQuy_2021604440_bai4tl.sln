@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap1", "baitap1\baitap1.csproj", "{3C2C403E-DC1C-47FA-95A2-FBB6A1EE6DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap2", "baitap2\baitap2.csproj", "{3B6D600D-16B0-46DB-80DD-25C52019E308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap3", "baitap3\baitap3.csproj", "{27710D8E-D3E6-4A29-9AB3-EF90E61CE407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2C403E-DC1C-47FA-95A2-FBB6A1EE6DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2C403E-DC1C-47FA-95A2-FBB6A1EE6DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2C403E-DC1C-47FA-95A2-FBB6A1EE6DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2C403E-DC1C-47FA-95A2-FBB6A1EE6DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6D600D-16B0-46DB-80DD-25C52019E308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6D600D-16B0-46DB-80DD-25C52019E308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6D600D-16B0-46DB-80DD-25C52019E308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6D600D-16B0-46DB-80DD-25C52019E308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27710D8E-D3E6-4A29-9AB3-EF90E61CE407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27710D8E-D3E6-4A29-9AB3-EF90E61CE407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27710D8E-D3E6-4A29-9AB3-EF90E61CE407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27710D8E-D3E6-4A29-9AB3-EF90E61CE407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B42631-DB7C-417F-961C-AA069332DF1F}
+	EndGlobalSection
+EndGlobal

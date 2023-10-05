@@ -1,0 +1,14 @@
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\bin\Debug\net6.0\baitap1.exe
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\bin\Debug\net6.0\baitap1.deps.json
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\bin\Debug\net6.0\baitap1.runtimeconfig.json
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\bin\Debug\net6.0\baitap1.dll
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\bin\Debug\net6.0\baitap1.pdb
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\baitap1.AssemblyInfoInputs.cache
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\baitap1.AssemblyInfo.cs
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\baitap1.csproj.CoreCompileInputs.cache
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\baitap1.dll
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\refint\baitap1.dll
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\baitap1.pdb
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\baitap1.genruntimeconfig.cache
+E:\project\HoangXuanQuy_2021604440_proj52\baitap1\obj\Debug\net6.0\ref\baitap1.dll
