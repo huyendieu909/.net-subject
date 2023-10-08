@@ -1,0 +1,14 @@
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\bin\Debug\net6.0\phieubaitap2.exe
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\bin\Debug\net6.0\phieubaitap2.deps.json
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\bin\Debug\net6.0\phieubaitap2.runtimeconfig.json
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\bin\Debug\net6.0\phieubaitap2.dll
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\bin\Debug\net6.0\phieubaitap2.pdb
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\phieubaitap2.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\phieubaitap2.AssemblyInfoInputs.cache
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\phieubaitap2.AssemblyInfo.cs
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\phieubaitap2.csproj.CoreCompileInputs.cache
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\phieubaitap2.dll
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\refint\phieubaitap2.dll
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\phieubaitap2.pdb
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\phieubaitap2.genruntimeconfig.cache
+E:\project\HoangXuanQuy_2021604440_proj62\phieubaitap2\obj\Debug\net6.0\ref\phieubaitap2.dll
