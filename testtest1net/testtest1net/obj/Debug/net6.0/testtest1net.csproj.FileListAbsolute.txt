@@ -1,0 +1,14 @@
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\testtest1net.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\testtest1net.AssemblyInfoInputs.cache
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\testtest1net.AssemblyInfo.cs
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\testtest1net.csproj.CoreCompileInputs.cache
+E:\project\testtest1net\testtest1net\bin\Debug\net6.0\testtest1net.exe
+E:\project\testtest1net\testtest1net\bin\Debug\net6.0\testtest1net.deps.json
+E:\project\testtest1net\testtest1net\bin\Debug\net6.0\testtest1net.runtimeconfig.json
+E:\project\testtest1net\testtest1net\bin\Debug\net6.0\testtest1net.dll
+E:\project\testtest1net\testtest1net\bin\Debug\net6.0\testtest1net.pdb
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\testtest1net.dll
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\refint\testtest1net.dll
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\testtest1net.pdb
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\testtest1net.genruntimeconfig.cache
+E:\project\testtest1net\testtest1net\obj\Debug\net6.0\ref\testtest1net.dll
