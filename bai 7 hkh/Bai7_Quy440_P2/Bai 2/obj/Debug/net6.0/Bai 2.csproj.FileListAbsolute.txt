@@ -1,0 +1,14 @@
+E:\project\Bai7_Quy440_P2\Bai 2\bin\Debug\net6.0\Bai 2.exe
+E:\project\Bai7_Quy440_P2\Bai 2\bin\Debug\net6.0\Bai 2.deps.json
+E:\project\Bai7_Quy440_P2\Bai 2\bin\Debug\net6.0\Bai 2.runtimeconfig.json
+E:\project\Bai7_Quy440_P2\Bai 2\bin\Debug\net6.0\Bai 2.dll
+E:\project\Bai7_Quy440_P2\Bai 2\bin\Debug\net6.0\Bai 2.pdb
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\Bai 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\Bai 2.AssemblyInfoInputs.cache
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\Bai 2.AssemblyInfo.cs
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\Bai 2.csproj.CoreCompileInputs.cache
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\Bai 2.dll
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\refint\Bai 2.dll
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\Bai 2.pdb
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\Bai 2.genruntimeconfig.cache
+E:\project\Bai7_Quy440_P2\Bai 2\obj\Debug\net6.0\ref\Bai 2.dll
