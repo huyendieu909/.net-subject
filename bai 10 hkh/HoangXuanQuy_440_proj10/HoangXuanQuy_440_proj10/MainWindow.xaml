@@ -1,0 +1,34 @@
+﻿<Window x:Class="HoangXuanQuy_440_proj10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HoangXuanQuy_440_proj10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Menu Height="22" Name="menu1" VerticalAlignment="Top">
+                <MenuItem Header="Menu1">
+                    <MenuItem Name="copy" Command="ApplicationCommands.Copy"/>
+                    <MenuItem Name="cut" Command="ApplicationCommands.Cut"/>
+                    <MenuItem Name="paste" Command="ApplicationCommands.Paste"/>
+                </MenuItem>
+                <MenuItem Header="Menu2">
+                    <MenuItem Header="Menu21">
+                        <MenuItem Header="m221" IsCheckable="True"/>
+                    </MenuItem>
+                    <MenuItem Header="Menu22" Click="Menu22_Click"/>
+                </MenuItem>
+                <MenuItem Header="Menu3" Name="menu3" Click="Menu3_Click"/>
+            </Menu>
+            <ToolBar>
+                <CheckBox Name="B" Checked="Bold_tb" Unchecked="Unbold_tb">B</CheckBox>
+                <Button Name="I" Click="I_Click">I</Button>
+            </ToolBar>
+            <TextBox x:Name="tb">Con cào cào nhỏ trong bụi cỏ</TextBox>
+            <TextBox x:Name="tb2"></TextBox>
+        </StackPanel>
+        
+    </Grid>
+</Window>
