@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\TestTx2.net\\TestTx2.net\\TestTx2.net.csproj",
+      "projectUniqueName": "E:\\k5\\lt .net\\TestTx2.net\\TestTx2.net\\TestTx2.net.csproj",
       "projectName": "TestTx2.net",
-      "projectPath": "E:\\project\\TestTx2.net\\TestTx2.net\\TestTx2.net.csproj",
+      "projectPath": "E:\\k5\\lt .net\\TestTx2.net\\TestTx2.net\\TestTx2.net.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\TestTx2.net\\TestTx2.net\\obj\\",
+      "outputPath": "E:\\k5\\lt .net\\TestTx2.net\\TestTx2.net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

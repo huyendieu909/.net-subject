@@ -31,7 +31,8 @@ namespace TestTx2.net
                 nvm.HoTen = tbHoTen.Text;
                 nvm.NgaySinh = (DateTime)dtpNgaySinh.SelectedDate;
                 nvm.GioiTinh = (radNam.IsChecked == true) ? "Nam" : "Nữ";
-                nvm.PhongBan = cbPhongBan.SelectedItem.ToString();
+                nvm.PhongBan = (cbiToChuc.IsSelected == true) ? "Tổ chức" : (cbiKeHoach.IsSelected == true) ? "Kế hoạch" : "Vật tư";
+                //nvm.PhongBan = cbPhongBan.SelectedItem.ToString();
                 nvm.HeSoLuong = Convert.ToDouble(tbHeSoLuong.Text);
                 nv.Add(nvm);
                 
