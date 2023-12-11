@@ -1,0 +1,15 @@
+E:\project\Bai11_Quy440_P1\Bai1\bin\Debug\net8.0\Bai1.exe
+E:\project\Bai11_Quy440_P1\Bai1\bin\Debug\net8.0\Bai1.deps.json
+E:\project\Bai11_Quy440_P1\Bai1\bin\Debug\net8.0\Bai1.runtimeconfig.json
+E:\project\Bai11_Quy440_P1\Bai1\bin\Debug\net8.0\Bai1.dll
+E:\project\Bai11_Quy440_P1\Bai1\bin\Debug\net8.0\Bai1.pdb
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfoInputs.cache
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfo.cs
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.csproj.CoreCompileInputs.cache
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.sourcelink.json
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.dll
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\refint\Bai1.dll
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.pdb
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\Bai1.genruntimeconfig.cache
+E:\project\Bai11_Quy440_P1\Bai1\obj\Debug\net8.0\ref\Bai1.dll

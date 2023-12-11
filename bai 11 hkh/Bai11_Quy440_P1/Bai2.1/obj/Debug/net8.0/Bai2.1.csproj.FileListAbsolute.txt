@@ -1,0 +1,5 @@
+E:\project\Bai11_Quy440_P1\Bai2.1\obj\Debug\net8.0\Bai2.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai11_Quy440_P1\Bai2.1\obj\Debug\net8.0\Bai2.1.AssemblyInfoInputs.cache
+E:\project\Bai11_Quy440_P1\Bai2.1\obj\Debug\net8.0\Bai2.1.AssemblyInfo.cs
+E:\project\Bai11_Quy440_P1\Bai2.1\obj\Debug\net8.0\Bai2.1.csproj.CoreCompileInputs.cache
+E:\project\Bai11_Quy440_P1\Bai2.1\obj\Debug\net8.0\Bai2.1.sourcelink.json
